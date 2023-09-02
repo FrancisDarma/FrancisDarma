@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <body>
 <h2>About Me</h2>
-<hr/>
+
   <p>
   🔭 I’m currently working on CIMB Niaga Bank as a Business Analyst. I have been dealing with data analysis and reporting 
   for 2 years also I used to be relationship manager (salesperson). Now, I focus on designing data and report integration 
